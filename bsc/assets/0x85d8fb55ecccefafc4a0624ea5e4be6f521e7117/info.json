@@ -1,0 +1,15 @@
+{
+    "name": "Omnis",
+    "website": "https://www.omnistoken.ch",
+    "telegram": "https://t.me/omnistoken",
+    "discord": "https://discord.gg/Omnistoken",
+    "twitter": "https://twitter.com/Omnistoken",
+    "description": "Omnis is a deflationary BEP-20 token based on BNB Smart-Chain.",
+    "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "type": "BEP20",
+    "symbol": "OMN",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x85d8fb55ecccefafc4a0624ea5e4be6f521e7117"
+}
